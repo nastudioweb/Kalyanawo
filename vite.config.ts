@@ -5,8 +5,8 @@ import {defineConfig} from 'vite';
 
 export default defineConfig(() => {
   return {
-    base: '/kalyanawo/',
     plugins: [react(), tailwindcss()],
+     base: '/kalyanawo/',
     resolve: {
       alias: {
         '@': path.resolve(__dirname, '.'),
