@@ -1,0 +1,6 @@
+{
+  "name": "Kalyana Wedding Atelier",
+  "description": "Website wedding organizer premium dan elegan untuk calon pengantin Indonesia dengan paket harga transparan, galeri pernikahan, estimasi biaya, formulir reservasi, dan integrasi WhatsApp.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
